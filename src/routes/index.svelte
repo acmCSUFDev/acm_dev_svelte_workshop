@@ -50,7 +50,7 @@
 				{/if}
 			</div>
 			<div class="center">
-				Vim download (+30 cookies)
+				Vim download (-30 cookies)
 				{#if cookies > 30}
 					<button
 						on:click={() => {
@@ -75,7 +75,7 @@
 			</div>
 
             <div class="center">
-				SHALEEN (100 cookies)
+				SHALEEN (-100 cookies)
 				{#if cookies > 100}
 					<button
 						on:click={() => {
