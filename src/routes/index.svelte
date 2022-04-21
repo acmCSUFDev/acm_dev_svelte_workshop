@@ -62,7 +62,7 @@
 				{/if}
 			</div>
 			<div class="center">
-				Wifi Upgrade
+				Wifi Upgrade (-40 Cookies)
 				{#if cookies > 40}
 					<button
 						on:click={() => {
